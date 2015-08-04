@@ -1,2 +1,2 @@
 # gestureTest
-Bug手势测试
+pinch pan手势测试
