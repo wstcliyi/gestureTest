@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>happiness.xcscheme</key>
+		<key>gestureTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6E01366E1B66148E00D337A1</key>
+		<key>6E2015DB1B67D1E80033F76A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6E0136831B66148E00D337A1</key>
+		<key>6E2015F01B67D1E90033F76A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
